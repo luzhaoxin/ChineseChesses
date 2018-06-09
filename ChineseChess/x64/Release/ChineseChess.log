@@ -1,0 +1,13 @@
+﻿  Moc'ing MainWindow.h...
+  Moc'ing PcPlayer.h...
+  moc_MainWindow.cpp
+  moc_PcPlayer.cpp
+  ChessBoard.cpp
+  Controller.cpp
+  MainWindow.cpp
+  P2P.cpp
+  PcPlayer.cpp
+  TcpDlg.cpp
+  main.cpp
+e:\vs2015project\c projects\clang++\qt5.8_project\chinesechess\chinesechess\mainwindow.cpp(216): warning C4715: “MainWindow::chessType_to_Chinese”: 不是所有的控件路径都返回值
+  ChineseChess.vcxproj -> E:\vs2015project\C Projects\Clang++\Qt5.8_Project\ChineseChess\x64\Release\ChineseChess.exe
